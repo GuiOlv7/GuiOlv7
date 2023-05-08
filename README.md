@@ -1,7 +1,7 @@
 ### **Oi, aqui é o Guilherme!**
 Desenvolvedor Front-End, estudante de Análise e Desenvolvimento de Sistemas, autodidata em inglês, espanhol e francês e curioso com tudo que envolve programação.
 
-- 🗣️ **Inglês** nível avançado / **Francês** nível básico
+- 🗣️ **Inglês** avançado / **Espanhol** intermediário / **Francês** básico 
 - 🎵 **Músico** nas horas vagas
 
 <div display='inline'>
