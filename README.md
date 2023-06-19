@@ -5,11 +5,13 @@ Desenvolvedor Front-End, estudante de Análise e Desenvolvimento de Sistemas, au
 - 🎵 **Músico** nas horas vagas
 
 <div display='inline'>
-&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;
+&nbsp;
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &nbsp;
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;
 </div>
 
 ## 
