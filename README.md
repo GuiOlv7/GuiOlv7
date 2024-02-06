@@ -2,7 +2,7 @@
 Desenvolvedor Front-End, estudante de Análise e Desenvolvimento de Sistemas, autodidata em inglês, espanhol e francês e curioso com tudo que envolve programação.
 
 - 🗣️ **Inglês** avançado / **Espanhol** intermediário / **Francês** básico 
-- 🎵 **Músico** nas horas vagas
+- 🎵 **Rato de academia** e **músico** nas horas vagas
 
 <div display='inline'>
 &nbsp;
