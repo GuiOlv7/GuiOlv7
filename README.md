@@ -1,8 +1,8 @@
-### **Oi, aqui é o Guilherme!**
+### **Eai, aqui é o Guilherme!**
 Desenvolvedor Front-End, estudante de Análise e Desenvolvimento de Sistemas, autodidata em inglês, espanhol e francês e curioso com tudo que envolve programação.
 
 - 🗣️ **Inglês** avançado / **Espanhol** intermediário / **Francês** básico 
-- 🎵 **Rato de academia** e **músico** nas horas vagas
+- 🏋🏻🎵 **Rato de academia** e **músico** nas horas vagas
 
 <div display='inline'>
 &nbsp;
